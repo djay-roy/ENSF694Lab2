@@ -1,8 +1,9 @@
 
 
 
-[1. Result1](#1-Output1.png)
-[2. Result2](#2-Output2.png)
+[1. Result1](Output1.png)
+
+[2. Result2](Output2.png)
 
 Answers:
 

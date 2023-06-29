@@ -44,7 +44,7 @@ public class Lab2 {
         }
         System.out.println("Linear Search Time: " + linearSearchTime + " nanoseconds");
 
-        System.out.println("Using Hybrid Search:");
+        System.out.println("Using improvedLinear Search:");
         if (improvedLinearSearch != -1) {
             System.out.println("Search key FOUND at index " + improvedLinearSearch + ".");
         } else {
